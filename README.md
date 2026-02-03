@@ -47,13 +47,12 @@ The objective of this project is to create a visually appealing personal portfol
 3. Explore the animated portfolio website
 
 ## 🌐 Live Demo
-👉 (Paste your GitHub Pages live link here)
+<img width="1354" height="704" alt="Image" src="https://github.com/user-attachments/assets/8655e42a-adb3-4ed5-a6ce-16b198856b51" />
 
-## 📂 GitHub Repository
-👉 (Paste your GitHub repository link here)
+
 
 ## 👤 Author
-**Your Name**
+**PANDU**
 
 ## 📝 Note
 This project is created for learning purposes as part of the CODTECH internship and focuses on frontend design and animations.
